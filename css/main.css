@@ -36,7 +36,7 @@ html {
   transform: translateX(-52%);
   transform-origin: center bottom;
   left: 48%;
-  top: 60px;
+  top: 64px;
   animation: spin 500ms infinite linear;
 }
 
